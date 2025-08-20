@@ -2,7 +2,6 @@
 WorldQuant Brain API Helper Functions
 共用的辅助函数模块
 """
-
 import requests
 import json
 from os.path import expanduser
@@ -17,12 +16,12 @@ def sign_in():
     Returns:
         requests.Session: 已认证的会话对象
     """
-    with open(expanduser('brain_credentials.txt')) as f:
+    with open(expanduser('credentials.txt')) as f:
         credentials = json.load(f)
     username, password = credentials
     sess = requests.Session()
     sess.auth = HTTPBasicAuth(username, password)
-    response = sess.post('https://api.worldquantbrain.com/authentication')
+    sess.post('https://api.worldquantbrain.com/authentication')
     return sess
 
 
@@ -33,7 +32,7 @@ def sign_in_with_debug():
     Returns:
         requests.Session: 已认证的会话对象
     """
-    with open(expanduser('brain_credentials.txt')) as f:
+    with open(expanduser('credentials.txt')) as f:
         credentials = json.load(f)
     username, password = credentials
     sess = requests.Session()
@@ -62,13 +61,13 @@ def get_datafields(s, searchScope, dataset_id: str = '', search: str = ''):
     delay = searchScope['delay']
     universe = searchScope['universe']
 
-    if len(search) == 0:
+    if len(search) == 0: # no search keyword
         url_template = "https://api.worldquantbrain.com/data-fields?" + \
                        f"&instrumentType={instrument_type}" + \
                        f"&region={region}&delay={str(delay)}&universe={universe}&dataset.id={dataset_id}&limit=50" + \
                        "&offset={x}"
         count = s.get(url_template.format(x=0)).json()['count']
-    else:
+    else: 
         url_template = "https://api.worldquantbrain.com/data-fields?" + \
                        f"&instrumentType={instrument_type}" + \
                        f"&region={region}&delay={str(delay)}&universe={universe}&limit=50" + \

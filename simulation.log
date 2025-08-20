@@ -1,0 +1,957 @@
+2025-08-19 15:25:54,823 - INFO - 0: group_rank(ts_rank(assets, 60), market)
+2025-08-19 15:25:55,271 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2IVtM0gPT4Bw8RhbC3MnG6
+2025-08-19 15:25:55,271 - INFO - 1: group_rank(ts_rank(assets, 60), industry)
+2025-08-19 15:25:55,898 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4s9mp69R74GCcpVy6qfvcL7
+2025-08-19 15:25:55,898 - INFO - 2: group_rank(ts_rank(assets, 60), subindustry)
+2025-08-19 15:25:56,378 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/df8l5XP4z9c8610HdSxxsm
+2025-08-19 15:25:56,378 - INFO - 3: group_rank(ts_rank(assets, 60), sector)
+2025-08-19 15:26:01,985 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:26:17,591 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:26:33,342 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:26:48,849 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:27:04,947 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:27:20,333 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:27:35,746 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/SLJUp6v35ho8UXyYk9bNXM
+2025-08-19 15:27:35,747 - INFO - 4: group_rank(ts_rank(assets, 60), densify(pv13_h_f1_sector))
+2025-08-19 15:27:37,053 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1iRzsk3ET4J5aMT2UdvWUCj
+2025-08-19 15:27:37,053 - INFO - 5: group_rank(ts_rank(assets, 200), market)
+2025-08-19 15:27:37,528 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3tlgE23i4gV9RT12vsHEkOJ
+2025-08-19 15:27:37,529 - INFO - 6: group_rank(ts_rank(assets, 200), industry)
+2025-08-19 15:27:37,903 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:27:53,304 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:28:08,863 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:28:24,225 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:28:39,544 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:28:54,872 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:29:10,585 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1CnZ3ReG14iC8FZjJVenOsJ
+2025-08-19 15:29:10,585 - INFO - 7: group_rank(ts_rank(assets, 200), subindustry)
+2025-08-19 15:29:10,941 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:29:26,430 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:29:41,815 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:29:57,257 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4vOQQcbNE4WM9MjLVtQCnM9
+2025-08-19 15:29:57,257 - INFO - 8: group_rank(ts_rank(assets, 200), sector)
+2025-08-19 15:29:58,210 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3mmIa3d9B5c3cI6TNIBIXtW
+2025-08-19 15:29:58,210 - INFO - 9: group_rank(ts_rank(assets, 200), densify(pv13_h_f1_sector))
+2025-08-19 15:29:58,555 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:30:14,286 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:30:30,934 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:30:46,502 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1I0qZv6I04HpaeTPgVGRq65
+2025-08-19 15:30:46,502 - INFO - 10: group_rank(ts_rank(assets_curr, 60), market)
+2025-08-19 15:30:47,211 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:31:02,799 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:31:18,413 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2MMoQb3xB4ANacy1dhGGC2O2
+2025-08-19 15:31:18,413 - INFO - 11: group_rank(ts_rank(assets_curr, 60), industry)
+2025-08-19 15:31:19,067 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:31:34,956 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/6vwaN5xg4kzaoeFn0JlaGB
+2025-08-19 15:31:34,956 - INFO - 12: group_rank(ts_rank(assets_curr, 60), subindustry)
+2025-08-19 15:31:35,731 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:31:51,203 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:32:06,606 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/fUzjt1m44K19axJivVWOA8
+2025-08-19 15:32:06,606 - INFO - 13: group_rank(ts_rank(assets_curr, 60), sector)
+2025-08-19 15:32:08,284 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:32:23,592 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:32:39,011 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3u6nYx2aW4Bpb4ZBrPtVXjl
+2025-08-19 15:32:39,012 - INFO - 14: group_rank(ts_rank(assets_curr, 60), densify(pv13_h_f1_sector))
+2025-08-19 15:32:39,371 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:32:54,698 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:33:10,040 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:33:25,830 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1KfW7Xcz14XEblz1h45S07j7
+2025-08-19 15:33:25,830 - INFO - 15: group_rank(ts_rank(assets_curr, 200), market)
+2025-08-19 15:33:27,463 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:33:42,956 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:33:58,891 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2gxIo02M94Yn8Wstqvz8EAf
+2025-08-19 15:33:58,891 - INFO - 16: group_rank(ts_rank(assets_curr, 200), industry)
+2025-08-19 15:34:02,291 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:34:17,741 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/H8sbwa2i5d6b2TS2mOFSlI
+2025-08-19 15:34:17,741 - INFO - 17: group_rank(ts_rank(assets_curr, 200), subindustry)
+2025-08-19 15:34:18,126 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:34:33,477 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:34:49,102 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:35:04,926 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:35:20,325 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:35:35,930 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2MMcCEcTW5aI8zr14ymh03Un
+2025-08-19 15:35:35,931 - INFO - 18: group_rank(ts_rank(assets_curr, 200), sector)
+2025-08-19 15:35:36,257 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:35:51,587 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:36:14,212 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2ZQWcT81k4glcv41eYSwh4BF
+2025-08-19 15:36:14,212 - INFO - 19: group_rank(ts_rank(assets_curr, 200), densify(pv13_h_f1_sector))
+2025-08-19 15:36:14,678 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:36:30,048 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:36:45,366 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:37:00,683 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:37:16,112 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4fUdS24ZG4ibafIPdG4IL09
+2025-08-19 15:37:16,112 - INFO - 20: group_rank(ts_rank(bookvalue_ps, 60), market)
+2025-08-19 15:37:16,476 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:37:31,816 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:37:47,157 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:38:02,549 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/gIDr71MI4nR9LbJ1NIN3UN
+2025-08-19 15:38:02,549 - INFO - 21: group_rank(ts_rank(bookvalue_ps, 60), industry)
+2025-08-19 15:38:02,994 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:38:18,347 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:38:33,729 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3iQtPc6le4sebMD1eyYA1jsM
+2025-08-19 15:38:33,729 - INFO - 22: group_rank(ts_rank(bookvalue_ps, 60), subindustry)
+2025-08-19 15:38:34,056 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:38:49,846 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:39:05,187 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:39:20,579 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3AARC95jc4Uv8RVmfr8OL37
+2025-08-19 15:39:20,580 - INFO - 23: group_rank(ts_rank(bookvalue_ps, 60), sector)
+2025-08-19 15:39:21,114 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:39:36,746 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3aP84Dgm550pbUJ10IUvVzUW
+2025-08-19 15:39:36,746 - INFO - 24: group_rank(ts_rank(bookvalue_ps, 60), densify(pv13_h_f1_sector))
+2025-08-19 15:39:37,553 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:39:53,001 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/293sMcBh5eucwn191i5sP4i
+2025-08-19 15:39:53,001 - INFO - 25: group_rank(ts_rank(bookvalue_ps, 200), market)
+2025-08-19 15:39:53,354 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:40:09,007 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:40:24,491 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:40:39,913 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/404Tf043u4ZAaVzZNI3rTz5
+2025-08-19 15:40:39,913 - INFO - 26: group_rank(ts_rank(bookvalue_ps, 200), industry)
+2025-08-19 15:40:40,405 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:40:55,818 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:41:11,346 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4wZJFlfPZ4BcaOzHoeCSFnA
+2025-08-19 15:41:11,346 - INFO - 27: group_rank(ts_rank(bookvalue_ps, 200), subindustry)
+2025-08-19 15:41:11,728 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:41:27,321 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2goNlQgGp4xlcyfUF17cVnl
+2025-08-19 15:41:27,321 - INFO - 28: group_rank(ts_rank(bookvalue_ps, 200), sector)
+2025-08-19 15:41:27,682 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:41:43,017 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:41:58,648 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:42:14,508 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1jeGx53Fd54b9dM10O6lRIII
+2025-08-19 15:42:14,508 - INFO - 29: group_rank(ts_rank(bookvalue_ps, 200), densify(pv13_h_f1_sector))
+2025-08-19 15:42:14,901 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:42:30,357 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:42:45,938 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/47NCeT2ek4hs9WP1cFGI4qIQ
+2025-08-19 15:42:45,938 - INFO - 30: group_rank(ts_rank(capex, 60), market)
+2025-08-19 15:42:46,278 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:43:01,849 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2N5zF7fei4he98112wV52Xjo
+2025-08-19 15:43:01,849 - INFO - 31: group_rank(ts_rank(capex, 60), industry)
+2025-08-19 15:43:02,758 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:43:19,103 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:43:34,440 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:43:49,758 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:44:05,224 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1yAh8mbV057aaTIYNZC6kQ1
+2025-08-19 15:44:05,224 - INFO - 32: group_rank(ts_rank(capex, 60), subindustry)
+2025-08-19 15:44:05,605 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2BdW1rc8I4njcefH5h4L3lT
+2025-08-19 15:44:05,605 - INFO - 33: group_rank(ts_rank(capex, 60), sector)
+2025-08-19 15:44:06,404 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:44:21,767 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:44:37,207 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4zo6JUeOG4M7b3nBJOB3IBM
+2025-08-19 15:44:37,207 - INFO - 34: group_rank(ts_rank(capex, 60), densify(pv13_h_f1_sector))
+2025-08-19 15:44:37,611 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:44:52,954 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:45:08,298 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:45:23,673 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:45:38,993 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:45:54,337 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:46:09,659 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:46:24,995 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:46:40,358 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1G1cABaCX4PZbHl18oN8hjV7
+2025-08-19 15:46:40,358 - INFO - 35: group_rank(ts_rank(capex, 200), market)
+2025-08-19 15:46:40,679 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:46:55,981 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:47:11,677 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2a4lyscYX4Dp9Fu18XiDw2XZ
+2025-08-19 15:47:11,677 - INFO - 36: group_rank(ts_rank(capex, 200), industry)
+2025-08-19 15:47:12,066 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:47:27,674 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:47:43,104 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:47:58,621 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2fTL4R6MI5e6afDjz90B0nz
+2025-08-19 15:47:58,622 - INFO - 37: group_rank(ts_rank(capex, 200), subindustry)
+2025-08-19 15:47:58,951 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:48:14,438 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:48:36,452 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/20TEKi4L25egbLcWrNXsF68
+2025-08-19 15:48:36,452 - INFO - 38: group_rank(ts_rank(capex, 200), sector)
+2025-08-19 15:48:36,768 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:48:52,166 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:49:08,254 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:49:23,752 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/27sief9Gs4W38EohVKaPiyT
+2025-08-19 15:49:23,752 - INFO - 39: group_rank(ts_rank(capex, 200), densify(pv13_h_f1_sector))
+2025-08-19 15:49:24,126 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:49:39,444 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:49:55,249 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:50:10,590 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:50:26,067 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/OvRbCca04vs91cnB6GnoYt
+2025-08-19 15:50:26,068 - INFO - 40: group_rank(ts_rank(cash, 60), market)
+2025-08-19 15:50:26,424 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:50:41,801 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:50:57,336 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/PajBjcBP4CqbaU9pOoEibA
+2025-08-19 15:50:57,336 - INFO - 41: group_rank(ts_rank(cash, 60), industry)
+2025-08-19 15:50:57,719 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:51:15,898 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:51:31,569 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:51:46,996 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/eHoW1cRE4MPcpvX4W4c9CJ
+2025-08-19 15:51:46,997 - INFO - 42: group_rank(ts_rank(cash, 60), subindustry)
+2025-08-19 15:51:47,416 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:52:02,861 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/ANDvi2Nz4DVb4L1bIXdlhyw
+2025-08-19 15:52:02,861 - INFO - 43: group_rank(ts_rank(cash, 60), sector)
+2025-08-19 15:52:03,686 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:52:20,885 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:52:36,494 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:52:52,311 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:53:07,797 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:53:23,204 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4cSjAPaJw5fXaePNokElgDC
+2025-08-19 15:53:23,204 - INFO - 44: group_rank(ts_rank(cash, 60), densify(pv13_h_f1_sector))
+2025-08-19 15:53:27,573 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:53:43,193 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:53:58,543 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:54:14,116 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/37bTEJciK5eIbs5E5M74Qo1
+2025-08-19 15:54:14,116 - INFO - 45: group_rank(ts_rank(cash, 200), market)
+2025-08-19 15:54:14,550 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:54:29,911 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:54:45,330 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1iO7N4Ud4yIaj2IyxpQVtQ
+2025-08-19 15:54:45,330 - INFO - 46: group_rank(ts_rank(cash, 200), industry)
+2025-08-19 15:54:46,046 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:55:01,555 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:55:17,179 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:55:32,622 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2oJYW02xu4xF9GtzMyayhAg
+2025-08-19 15:55:32,622 - INFO - 47: group_rank(ts_rank(cash, 200), subindustry)
+2025-08-19 15:55:33,120 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:55:48,490 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:56:03,859 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:56:19,278 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1EyKXjgIN4FTbz41SKuPHkN
+2025-08-19 15:56:19,278 - INFO - 48: group_rank(ts_rank(cash, 200), sector)
+2025-08-19 15:56:19,888 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:56:35,270 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:56:51,099 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:57:14,358 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/10cIJz4Kq4Wwc1puOzKEeBR
+2025-08-19 15:57:14,358 - INFO - 49: group_rank(ts_rank(cash, 200), densify(pv13_h_f1_sector))
+2025-08-19 15:57:14,826 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:57:30,427 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:57:45,821 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:58:01,255 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2zVfMD9fO59s9IJ1fFrnHN13
+2025-08-19 15:58:01,255 - INFO - 50: group_rank(ts_rank(cash_st, 60), market)
+2025-08-19 15:58:01,624 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:58:17,362 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:58:32,839 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:58:48,234 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:59:04,256 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:59:19,799 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:59:35,631 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 15:59:51,437 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/Xn3CR1d84jV9nYSfGvInWu
+2025-08-19 15:59:51,437 - INFO - 51: group_rank(ts_rank(cash_st, 60), industry)
+2025-08-19 15:59:52,237 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/E9xBV5U14PMc0fEYfDORqm
+2025-08-19 15:59:52,237 - INFO - 52: group_rank(ts_rank(cash_st, 60), subindustry)
+2025-08-19 15:59:52,712 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:00:08,090 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:00:23,649 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:00:39,278 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:00:55,198 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/26PJN379u4zB9Q71hg0sgQyV
+2025-08-19 16:00:55,199 - INFO - 53: group_rank(ts_rank(cash_st, 60), sector)
+2025-08-19 16:00:55,904 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:01:11,522 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/28TqMx5My4vpbCrSGFdhnF
+2025-08-19 16:01:11,522 - INFO - 54: group_rank(ts_rank(cash_st, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:01:12,992 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:01:28,548 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:01:44,218 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:01:59,878 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:02:15,987 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:02:31,925 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4fNatmdgF4RIbPryihLVAYE
+2025-08-19 16:02:31,925 - INFO - 55: group_rank(ts_rank(cash_st, 200), market)
+2025-08-19 16:02:32,689 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3qOUdse6R4VobwTyOJ8x1j0
+2025-08-19 16:02:32,689 - INFO - 56: group_rank(ts_rank(cash_st, 200), industry)
+2025-08-19 16:02:33,382 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:02:49,239 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1wkmaZ5ra4gIakExJ2J8m2t
+2025-08-19 16:02:49,239 - INFO - 57: group_rank(ts_rank(cash_st, 200), subindustry)
+2025-08-19 16:02:56,350 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:03:12,026 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:03:28,038 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:03:43,779 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:04:00,179 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2Qg3C0a614m5a30XbYVQzlU
+2025-08-19 16:04:00,179 - INFO - 58: group_rank(ts_rank(cash_st, 200), sector)
+2025-08-19 16:04:00,770 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:04:16,737 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:04:32,967 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4GwwbaeED57Y95ZGJpvDEPM
+2025-08-19 16:04:32,967 - INFO - 59: group_rank(ts_rank(cash_st, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:04:33,871 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:04:49,387 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:05:05,293 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:05:24,825 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1hzhdS1iP4XCaDC1b6beZDkO
+2025-08-19 16:05:24,825 - INFO - 60: group_rank(ts_rank(cashflow, 60), market)
+2025-08-19 16:05:26,360 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:05:42,993 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1zzepy7lX4zuaRu18THYIY9W
+2025-08-19 16:05:42,993 - INFO - 61: group_rank(ts_rank(cashflow, 60), industry)
+2025-08-19 16:05:44,032 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:06:00,537 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:06:16,499 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:06:34,431 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/SAfv9drP4nHbAWabMEgztX
+2025-08-19 16:06:34,432 - INFO - 62: group_rank(ts_rank(cashflow, 60), subindustry)
+2025-08-19 16:06:35,900 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:06:52,388 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:07:08,732 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1Q2cjX9T44Ov9l31gQzbSl3U
+2025-08-19 16:07:08,733 - INFO - 63: group_rank(ts_rank(cashflow, 60), sector)
+2025-08-19 16:07:11,276 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3kx5lVdA35ddcx814ukmahkj
+2025-08-19 16:07:11,276 - INFO - 64: group_rank(ts_rank(cashflow, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:07:14,295 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:07:31,017 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:07:47,795 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:08:04,386 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:08:21,864 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:08:37,915 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1eQ24olr4XIaRemfoN4BRh
+2025-08-19 16:08:37,915 - INFO - 65: group_rank(ts_rank(cashflow, 200), market)
+2025-08-19 16:08:38,984 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:08:55,931 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1AOZtDdXY5fMa5EXaHxayeI
+2025-08-19 16:08:55,931 - INFO - 66: group_rank(ts_rank(cashflow, 200), industry)
+2025-08-19 16:08:57,535 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:09:13,900 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:09:34,460 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:09:51,088 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:10:07,636 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4gwfVMaPy4n4auADFFIl4w
+2025-08-19 16:10:07,636 - INFO - 67: group_rank(ts_rank(cashflow, 200), subindustry)
+2025-08-19 16:10:09,322 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:10:25,863 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4xUk228M651Obs918fxyzZ6C
+2025-08-19 16:10:25,863 - INFO - 68: group_rank(ts_rank(cashflow, 200), sector)
+2025-08-19 16:10:27,808 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:10:44,261 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:11:00,435 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:11:18,748 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:11:34,843 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/16fWNCqG4JWbPoZjr4bQRm
+2025-08-19 16:11:34,843 - INFO - 69: group_rank(ts_rank(cashflow, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:11:40,452 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:12:00,172 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:12:16,256 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:12:31,794 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:12:48,777 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/45b0792PP51T9wmS519tJLw
+2025-08-19 16:12:48,777 - INFO - 70: group_rank(ts_rank(cashflow_dividends, 60), market)
+2025-08-19 16:12:51,587 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2690zneJY4hVcpUrrqM76pM
+2025-08-19 16:12:51,587 - INFO - 71: group_rank(ts_rank(cashflow_dividends, 60), industry)
+2025-08-19 16:12:56,003 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:13:12,617 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/47lmqD1eL58WbblFXUkVSFL
+2025-08-19 16:13:12,618 - INFO - 72: group_rank(ts_rank(cashflow_dividends, 60), subindustry)
+2025-08-19 16:13:15,082 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:13:33,466 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:13:50,768 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:14:07,214 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:14:25,056 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2xCWz13Ur4Cw8VUfEhC3hue
+2025-08-19 16:14:25,056 - INFO - 73: group_rank(ts_rank(cashflow_dividends, 60), sector)
+2025-08-19 16:14:26,646 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:14:46,752 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4lgWJ4b964skbx61370mMfIB
+2025-08-19 16:14:46,752 - INFO - 74: group_rank(ts_rank(cashflow_dividends, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:14:48,251 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/34TPPe2U152CbOO145252dJ
+2025-08-19 16:14:48,252 - INFO - 75: group_rank(ts_rank(cashflow_dividends, 200), market)
+2025-08-19 16:14:51,213 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:15:07,685 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:15:27,742 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:15:46,053 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:16:02,559 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/aPy8Pco04EEcC7NNm7LfYp
+2025-08-19 16:16:02,559 - INFO - 76: group_rank(ts_rank(cashflow_dividends, 200), industry)
+2025-08-19 16:16:04,341 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:16:21,062 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3aJS0QGh4xK9HK1f69dkhP7
+2025-08-19 16:16:21,062 - INFO - 77: group_rank(ts_rank(cashflow_dividends, 200), subindustry)
+2025-08-19 16:16:22,377 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2u7s7Mcgx4Au90I1fCaAP2T3
+2025-08-19 16:16:22,377 - INFO - 78: group_rank(ts_rank(cashflow_dividends, 200), sector)
+2025-08-19 16:16:24,235 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:16:39,737 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:16:56,705 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:17:12,442 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:17:36,493 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3UCsyV38t4Jjbvr9WLphFmi
+2025-08-19 16:17:36,493 - INFO - 79: group_rank(ts_rank(cashflow_dividends, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:17:38,188 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:17:54,931 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:18:11,960 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2hEa5V9IG4P29y1gf8OK4nS
+2025-08-19 16:18:11,960 - INFO - 80: group_rank(ts_rank(cashflow_fin, 60), market)
+2025-08-19 16:18:14,113 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1ji1Jx8Yq4z58JuXYC3hf4c
+2025-08-19 16:18:14,113 - INFO - 81: group_rank(ts_rank(cashflow_fin, 60), industry)
+2025-08-19 16:18:17,555 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:18:34,061 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:18:50,053 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:19:06,134 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/Amw6B5rH4O9cHUNiZN6eNA
+2025-08-19 16:19:06,134 - INFO - 82: group_rank(ts_rank(cashflow_fin, 60), subindustry)
+2025-08-19 16:19:06,691 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:19:24,293 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:19:39,691 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1ekbYo98b4K1coxUQ6vRJiH
+2025-08-19 16:19:39,691 - INFO - 83: group_rank(ts_rank(cashflow_fin, 60), sector)
+2025-08-19 16:19:43,329 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4eU3fl8g44u7cFA11qQZYbAo
+2025-08-19 16:19:43,329 - INFO - 84: group_rank(ts_rank(cashflow_fin, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:19:45,216 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:20:01,952 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:20:23,885 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:20:40,097 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1H1Ag2b1v5hmc0lcbCcWuvh
+2025-08-19 16:20:40,097 - INFO - 85: group_rank(ts_rank(cashflow_fin, 200), market)
+2025-08-19 16:20:41,902 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:20:58,137 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:21:16,276 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/pgShQ7z24Mb9OE94hzQDiH
+2025-08-19 16:21:16,276 - INFO - 86: group_rank(ts_rank(cashflow_fin, 200), industry)
+2025-08-19 16:21:17,836 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/188yas31a5eLa4Q1cJDXckC
+2025-08-19 16:21:17,836 - INFO - 87: group_rank(ts_rank(cashflow_fin, 200), subindustry)
+2025-08-19 16:21:18,566 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:21:34,994 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:21:51,279 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:22:07,081 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/uG5vWaOM52qavcborjlHkG
+2025-08-19 16:22:07,081 - INFO - 88: group_rank(ts_rank(cashflow_fin, 200), sector)
+2025-08-19 16:22:07,564 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:22:25,553 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:22:41,621 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2B9exp7614Xu9bLURrvW6sm
+2025-08-19 16:22:41,621 - INFO - 89: group_rank(ts_rank(cashflow_fin, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:22:42,331 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:23:04,718 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/18fxEd72D4m0afZuq3hP85o
+2025-08-19 16:23:04,718 - INFO - 90: group_rank(ts_rank(cashflow_invst, 60), market)
+2025-08-19 16:23:07,266 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:23:23,033 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:23:38,980 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:23:55,284 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:24:11,585 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/fOy7Cdct58hbfHB2mB09EI
+2025-08-19 16:24:11,585 - INFO - 91: group_rank(ts_rank(cashflow_invst, 60), industry)
+2025-08-19 16:24:12,628 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:24:29,310 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2KNEFeaNO52e9AFHkMp8Dey
+2025-08-19 16:24:29,310 - INFO - 92: group_rank(ts_rank(cashflow_invst, 60), subindustry)
+2025-08-19 16:24:30,065 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:24:46,836 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/mNCtQenE4qq8zx1eUOkGGjY
+2025-08-19 16:24:46,836 - INFO - 93: group_rank(ts_rank(cashflow_invst, 60), sector)
+2025-08-19 16:24:48,044 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:25:03,414 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:25:28,068 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:25:43,950 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2UMsw28ia4qscB9cQQT72j6
+2025-08-19 16:25:43,951 - INFO - 94: group_rank(ts_rank(cashflow_invst, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:25:45,566 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:26:01,633 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:26:17,222 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4lMDDy8N54QmbHSEO9o2lKe
+2025-08-19 16:26:17,222 - INFO - 95: group_rank(ts_rank(cashflow_invst, 200), market)
+2025-08-19 16:26:18,888 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/17kPYD4jq4LtbfLmzrVgaLO
+2025-08-19 16:26:18,888 - INFO - 96: group_rank(ts_rank(cashflow_invst, 200), industry)
+2025-08-19 16:26:20,075 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:26:36,634 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:26:53,444 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:27:09,591 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1AG9IZazy4GRc1L6CrWMxfo
+2025-08-19 16:27:09,591 - INFO - 97: group_rank(ts_rank(cashflow_invst, 200), subindustry)
+2025-08-19 16:27:10,235 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:27:26,417 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:27:42,836 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1eelMZ2gZ5dPcLNPE3JFvqg
+2025-08-19 16:27:42,836 - INFO - 98: group_rank(ts_rank(cashflow_invst, 200), sector)
+2025-08-19 16:27:44,315 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/40Ne114mt4DY9BZZK6CHcPa
+2025-08-19 16:27:44,315 - INFO - 99: group_rank(ts_rank(cashflow_invst, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:27:46,803 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:28:03,344 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:28:19,635 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:28:35,124 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:28:50,699 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/DZKYLgBE4SJ9uvGM6u6qAP
+2025-08-19 16:28:50,700 - INFO - 100: group_rank(ts_rank(cashflow_op, 60), market)
+2025-08-19 16:28:51,872 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:29:08,539 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:29:24,007 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:29:40,752 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1w0jMT2hx55mcIeP7VhXkbD
+2025-08-19 16:29:40,752 - INFO - 101: group_rank(ts_rank(cashflow_op, 60), industry)
+2025-08-19 16:29:52,133 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:30:07,953 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2zsyCZ3CC5i59WdJ2IkcWiU
+2025-08-19 16:30:07,953 - INFO - 102: group_rank(ts_rank(cashflow_op, 60), subindustry)
+2025-08-19 16:30:08,794 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:30:25,320 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:30:41,811 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:30:57,701 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:31:14,808 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3CTUup3Vo4xhb0Xl8hWnUeW
+2025-08-19 16:31:14,809 - INFO - 103: group_rank(ts_rank(cashflow_op, 60), sector)
+2025-08-19 16:31:16,182 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/n88dT1VW4lMbH68buqqLqI
+2025-08-19 16:31:16,182 - INFO - 104: group_rank(ts_rank(cashflow_op, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:31:17,994 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:31:34,805 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:31:51,867 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/gCxTCbTH4mWaL3COHuoc3r
+2025-08-19 16:31:51,867 - INFO - 105: group_rank(ts_rank(cashflow_op, 200), market)
+2025-08-19 16:31:52,544 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:32:08,976 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:32:24,559 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:32:40,570 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1D9UISbaf4Hh8I7LYYjfhrQ
+2025-08-19 16:32:40,570 - INFO - 106: group_rank(ts_rank(cashflow_op, 200), industry)
+2025-08-19 16:32:42,647 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:32:58,780 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/AKoUh2wR4KY9EZc47GiGGS
+2025-08-19 16:32:58,780 - INFO - 107: group_rank(ts_rank(cashflow_op, 200), subindustry)
+2025-08-19 16:32:59,127 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:33:14,917 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4AUySxaGK5eTbYC18m6THmjp
+2025-08-19 16:33:14,917 - INFO - 108: group_rank(ts_rank(cashflow_op, 200), sector)
+2025-08-19 16:33:19,522 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:33:35,640 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:33:52,073 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:34:07,701 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:34:23,670 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:34:39,514 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:34:55,562 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3YE0rV58j4gt983145molY9L
+2025-08-19 16:34:55,562 - INFO - 109: group_rank(ts_rank(cashflow_op, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:34:56,451 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/fmaXD28V4W8arRRpkKsvzG
+2025-08-19 16:34:56,451 - INFO - 110: group_rank(ts_rank(cogs, 60), market)
+2025-08-19 16:34:57,634 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:35:13,418 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:35:29,865 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:35:45,183 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:36:00,770 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:36:16,948 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/12XV4e1qg4HP9b2GWXmg23Q
+2025-08-19 16:36:16,949 - INFO - 111: group_rank(ts_rank(cogs, 60), industry)
+2025-08-19 16:36:17,993 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:36:37,118 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/31EbRmbzB4G591bSCFqUS5u
+2025-08-19 16:36:37,118 - INFO - 112: group_rank(ts_rank(cogs, 60), subindustry)
+2025-08-19 16:36:38,723 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:36:55,529 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:37:11,873 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:37:27,858 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:37:44,501 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:38:02,932 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/39wEVWacd4QPciO1dPNwBd1s
+2025-08-19 16:38:02,932 - INFO - 113: group_rank(ts_rank(cogs, 60), sector)
+2025-08-19 16:38:03,409 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:38:19,311 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:38:35,601 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:38:51,499 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/35OZVlod4WybiN11dQBqBuO
+2025-08-19 16:38:51,499 - INFO - 114: group_rank(ts_rank(cogs, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:38:52,877 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:39:09,521 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:39:26,495 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/e5phf5KI4Eq9dElHOOutiQ
+2025-08-19 16:39:26,495 - INFO - 115: group_rank(ts_rank(cogs, 200), market)
+2025-08-19 16:39:27,468 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:39:43,194 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:39:59,337 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/hdUyJ40u4CBb3KPwQhXAty
+2025-08-19 16:39:59,337 - INFO - 116: group_rank(ts_rank(cogs, 200), industry)
+2025-08-19 16:40:00,720 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:40:16,222 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/31VuQnaia4xRbPh18UaAWLzt
+2025-08-19 16:40:16,222 - INFO - 117: group_rank(ts_rank(cogs, 200), subindustry)
+2025-08-19 16:40:18,148 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:40:34,024 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:40:50,429 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2DhWH5fsn4x1aluol6JjZ9n
+2025-08-19 16:40:50,429 - INFO - 118: group_rank(ts_rank(cogs, 200), sector)
+2025-08-19 16:40:51,912 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:41:09,655 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:41:29,780 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4DOe9a2uH4zgaeU8a0OrJm1
+2025-08-19 16:41:29,780 - INFO - 119: group_rank(ts_rank(cogs, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:41:30,848 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:41:47,211 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2hcaEX7UR4TGaIhDh2s1AEz
+2025-08-19 16:41:47,211 - INFO - 120: group_rank(ts_rank(current_ratio, 60), market)
+2025-08-19 16:41:48,399 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:42:04,711 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:42:20,354 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3PNYEh2xO4lWaWoxCgVcUaX
+2025-08-19 16:42:20,354 - INFO - 121: group_rank(ts_rank(current_ratio, 60), industry)
+2025-08-19 16:42:22,043 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:42:38,596 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:42:53,990 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:43:10,319 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:43:26,400 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3rzGBZ7iB51Jbpk1b3La8jJ4
+2025-08-19 16:43:26,400 - INFO - 122: group_rank(ts_rank(current_ratio, 60), subindustry)
+2025-08-19 16:43:28,599 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1mjaUsfw14yC8JG1hEl9DCiP
+2025-08-19 16:43:28,599 - INFO - 123: group_rank(ts_rank(current_ratio, 60), sector)
+2025-08-19 16:43:28,919 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:43:45,000 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/JrdYzfyA5dJbx7D6xKn9mX
+2025-08-19 16:43:45,000 - INFO - 124: group_rank(ts_rank(current_ratio, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:43:45,805 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:44:01,474 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:44:18,577 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:44:34,311 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:44:50,918 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4Bpn6Q5Fu4Ejbp1C7JY6cnI
+2025-08-19 16:44:50,919 - INFO - 125: group_rank(ts_rank(current_ratio, 200), market)
+2025-08-19 16:44:51,430 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:45:07,129 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:45:22,892 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3oot6EfVa5aBco4fUqB07jm
+2025-08-19 16:45:22,893 - INFO - 126: group_rank(ts_rank(current_ratio, 200), industry)
+2025-08-19 16:45:24,131 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:45:39,993 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:45:55,439 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:46:12,225 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2bTqL0dOO54K9iTbLYbqnuE
+2025-08-19 16:46:12,226 - INFO - 127: group_rank(ts_rank(current_ratio, 200), subindustry)
+2025-08-19 16:46:13,177 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/20gr8p62152Qbp3L9uNGU1C
+2025-08-19 16:46:13,177 - INFO - 128: group_rank(ts_rank(current_ratio, 200), sector)
+2025-08-19 16:46:13,909 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:46:31,360 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:46:47,485 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:47:04,702 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3FtaBJ4FC4HNbdTrv4QmfGD
+2025-08-19 16:47:04,702 - INFO - 129: group_rank(ts_rank(current_ratio, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:47:05,332 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:47:21,196 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:47:37,553 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4aBuxc9xs4AycEWie7T5l0g
+2025-08-19 16:47:37,553 - INFO - 130: group_rank(ts_rank(debt, 60), market)
+2025-08-19 16:47:38,655 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:47:54,621 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/362k9R6wG4TrbCxgiM12hMe
+2025-08-19 16:47:54,621 - INFO - 131: group_rank(ts_rank(debt, 60), industry)
+2025-08-19 16:47:56,385 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:48:12,489 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:48:28,055 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3vy2I0Gi4MlajG14ob6bHDZ
+2025-08-19 16:48:28,056 - INFO - 132: group_rank(ts_rank(debt, 60), subindustry)
+2025-08-19 16:48:28,857 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:48:49,597 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:49:06,005 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/Tsm1Z9ju51WcJeKFRWdS6L
+2025-08-19 16:49:06,005 - INFO - 133: group_rank(ts_rank(debt, 60), sector)
+2025-08-19 16:49:09,792 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:49:25,814 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:49:41,355 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/32dTCh45m4tM9sxxLxdmunP
+2025-08-19 16:49:41,355 - INFO - 134: group_rank(ts_rank(debt, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:49:41,977 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:49:59,006 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:50:15,124 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:50:30,701 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:50:47,014 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:51:02,936 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3Y3Uzb84v4sOccwySlJNunD
+2025-08-19 16:51:02,936 - INFO - 135: group_rank(ts_rank(debt, 200), market)
+2025-08-19 16:51:04,413 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:51:24,173 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:51:40,578 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:51:57,115 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/KK6XAg8Z4HUaKBHOFrZJMq
+2025-08-19 16:51:57,115 - INFO - 136: group_rank(ts_rank(debt, 200), industry)
+2025-08-19 16:52:00,921 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:52:17,336 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:52:33,435 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:52:49,118 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:53:04,979 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:53:21,255 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1DGEn6Tn4r1a7FWfyczCkH
+2025-08-19 16:53:21,256 - INFO - 137: group_rank(ts_rank(debt, 200), subindustry)
+2025-08-19 16:53:23,228 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2hnriq9wE4iya50RgVy1Tv2
+2025-08-19 16:53:23,228 - INFO - 138: group_rank(ts_rank(debt, 200), sector)
+2025-08-19 16:53:24,659 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:53:40,495 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:54:02,309 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1rViUc1HC4EO8PI10b4li5JT
+2025-08-19 16:54:02,309 - INFO - 139: group_rank(ts_rank(debt, 200), densify(pv13_h_f1_sector))
+2025-08-19 16:54:03,184 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:54:19,294 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:54:35,284 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:54:51,173 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1v7ba4edu56IcrANksQ0J18
+2025-08-19 16:54:51,173 - INFO - 140: group_rank(ts_rank(debt_lt, 60), market)
+2025-08-19 16:54:52,135 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4o8O9gebQ5e78VQSmu6Ege3
+2025-08-19 16:54:52,136 - INFO - 141: group_rank(ts_rank(debt_lt, 60), industry)
+2025-08-19 16:54:54,473 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:55:15,641 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:55:35,160 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/20cOb9ch24WsbhqhnRzLi4q
+2025-08-19 16:55:35,160 - INFO - 142: group_rank(ts_rank(debt_lt, 60), subindustry)
+2025-08-19 16:55:36,718 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:55:52,889 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:56:08,991 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:56:24,528 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:56:43,352 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:57:04,385 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:57:20,881 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/auqsQcjA5bz9tOtbyGBa99
+2025-08-19 16:57:20,881 - INFO - 143: group_rank(ts_rank(debt_lt, 60), sector)
+2025-08-19 16:57:21,729 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:57:39,028 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:57:54,754 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/aeRDZfQd4SJcxParNSpmC9
+2025-08-19 16:57:54,755 - INFO - 144: group_rank(ts_rank(debt_lt, 60), densify(pv13_h_f1_sector))
+2025-08-19 16:57:56,098 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/34xG7F2IY53oaNH15vaGiyhJ
+2025-08-19 16:57:56,099 - INFO - 145: group_rank(ts_rank(debt_lt, 200), market)
+2025-08-19 16:57:57,684 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:58:18,214 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:58:34,150 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:58:50,324 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:59:06,604 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/n6YoCfIg4Tebl4T8rhTH0I
+2025-08-19 16:59:06,604 - INFO - 146: group_rank(ts_rank(debt_lt, 200), industry)
+2025-08-19 16:59:07,358 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:59:30,774 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3HNgN3bAI4xZ8TMt1cDA188
+2025-08-19 16:59:30,774 - INFO - 147: group_rank(ts_rank(debt_lt, 200), subindustry)
+2025-08-19 16:59:31,917 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 16:59:47,678 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/9NNVw9Hm4kka5k1d3HBvilJ
+2025-08-19 16:59:47,678 - INFO - 148: group_rank(ts_rank(debt_lt, 200), sector)
+2025-08-19 16:59:48,694 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:00:05,331 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:00:25,822 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:00:42,810 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:00:58,972 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:01:14,728 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/o6BxZ9XU4HbcFjmLOKVutO
+2025-08-19 17:01:14,728 - INFO - 149: group_rank(ts_rank(debt_lt, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:01:16,125 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:01:32,528 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:01:49,133 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:02:05,456 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4pnYLG9Db4AlaNohnv6unDU
+2025-08-19 17:02:05,456 - INFO - 150: group_rank(ts_rank(debt_st, 60), market)
+2025-08-19 17:02:08,044 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:02:25,317 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:02:50,093 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2cxa2UgRe4vUbkV16ldNnAyG
+2025-08-19 17:02:50,093 - INFO - 151: group_rank(ts_rank(debt_st, 60), industry)
+2025-08-19 17:02:50,874 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:03:07,331 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:03:23,593 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:03:44,824 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/36CpydIe4WSaqJ1bdttC5E4
+2025-08-19 17:03:44,824 - INFO - 152: group_rank(ts_rank(debt_st, 60), subindustry)
+2025-08-19 17:03:46,216 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:04:02,795 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:04:24,604 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2XigY11bl5c58MJZyGdKKCz
+2025-08-19 17:04:24,604 - INFO - 153: group_rank(ts_rank(debt_st, 60), sector)
+2025-08-19 17:04:25,256 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:04:42,022 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:04:58,913 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:05:15,290 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/xFMOx5685098NOmcMtLevF
+2025-08-19 17:05:15,291 - INFO - 154: group_rank(ts_rank(debt_st, 60), densify(pv13_h_f1_sector))
+2025-08-19 17:05:16,404 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:05:32,413 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:05:51,383 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:06:07,800 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/gHUfz5vn4DJctg1gLtaPjtG
+2025-08-19 17:06:07,800 - INFO - 155: group_rank(ts_rank(debt_st, 200), market)
+2025-08-19 17:06:10,319 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3uQyEL8Rm4FuaNiFpQaYpON
+2025-08-19 17:06:10,319 - INFO - 156: group_rank(ts_rank(debt_st, 200), industry)
+2025-08-19 17:06:11,799 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:06:27,599 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:06:45,694 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4iwgA2apw5abbfR11d2X53lQ
+2025-08-19 17:06:45,694 - INFO - 157: group_rank(ts_rank(debt_st, 200), subindustry)
+2025-08-19 17:06:46,848 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:07:02,490 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:07:18,674 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:07:34,502 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3WUUX32Hd4xqaJWTOpTX6Lt
+2025-08-19 17:07:34,502 - INFO - 158: group_rank(ts_rank(debt_st, 200), sector)
+2025-08-19 17:07:34,956 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:07:50,887 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/bz8YQ8g44Iza6e1d9JYZIG2
+2025-08-19 17:07:50,887 - INFO - 159: group_rank(ts_rank(debt_st, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:07:52,471 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:08:08,436 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/Vb8z3blc4EcbobwQg4bmQ
+2025-08-19 17:08:08,436 - INFO - 160: group_rank(ts_rank(depre_amort, 60), market)
+2025-08-19 17:08:09,560 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:08:26,430 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:08:42,804 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:08:58,986 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1JgqQwc9g4C49x44kbmpbSG
+2025-08-19 17:08:58,986 - INFO - 161: group_rank(ts_rank(depre_amort, 60), industry)
+2025-08-19 17:08:59,549 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:09:16,745 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/18RcA3dJd4jBa29DpoijlOJ
+2025-08-19 17:09:16,745 - INFO - 162: group_rank(ts_rank(depre_amort, 60), subindustry)
+2025-08-19 17:09:18,776 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:09:35,168 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:09:54,939 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:10:10,992 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:10:27,025 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/428WQ0csd4UMc3fB8nH9ASO
+2025-08-19 17:10:27,025 - INFO - 163: group_rank(ts_rank(depre_amort, 60), sector)
+2025-08-19 17:10:30,410 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:10:46,044 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/26J8iL1JF5hG9t0PKFwLfEo
+2025-08-19 17:10:46,044 - INFO - 164: group_rank(ts_rank(depre_amort, 60), densify(pv13_h_f1_sector))
+2025-08-19 17:10:47,203 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2sHWMl4na4Yccu9ehDljCqM
+2025-08-19 17:10:47,203 - INFO - 165: group_rank(ts_rank(depre_amort, 200), market)
+2025-08-19 17:10:49,085 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:11:05,158 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:11:20,740 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:11:37,201 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:11:53,043 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2HvjNc9pf4p8bzUiqDNQNFV
+2025-08-19 17:11:53,043 - INFO - 166: group_rank(ts_rank(depre_amort, 200), industry)
+2025-08-19 17:11:53,572 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:12:09,974 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4E7VsLbEC4UV9Pi12iLz610i
+2025-08-19 17:12:09,974 - INFO - 167: group_rank(ts_rank(depre_amort, 200), subindustry)
+2025-08-19 17:12:11,492 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:12:30,171 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:12:46,436 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1MPB4VfNc55OcD91bGPMBiJh
+2025-08-19 17:12:46,436 - INFO - 168: group_rank(ts_rank(depre_amort, 200), sector)
+2025-08-19 17:12:47,524 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:13:03,039 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:13:18,941 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:13:36,913 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1vIeu37Ch5as9m5280FVpnW
+2025-08-19 17:13:36,913 - INFO - 169: group_rank(ts_rank(depre_amort, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:13:37,776 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:13:53,825 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2njh8K5RV4pharyIBJGM89I
+2025-08-19 17:13:53,825 - INFO - 170: group_rank(ts_rank(ebit, 60), market)
+2025-08-19 17:13:54,401 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:14:10,896 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3tn0TfcI5048NS1iqk40Dz
+2025-08-19 17:14:10,896 - INFO - 171: group_rank(ts_rank(ebit, 60), industry)
+2025-08-19 17:14:11,284 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:14:27,698 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:14:45,371 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:15:00,869 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1QPbmiexC4Nt97fCw91Zstx
+2025-08-19 17:15:00,869 - INFO - 172: group_rank(ts_rank(ebit, 60), subindustry)
+2025-08-19 17:15:04,816 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:15:20,178 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:15:36,047 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2uONwc1hS4zdba6EkcH6AxH
+2025-08-19 17:15:36,048 - INFO - 173: group_rank(ts_rank(ebit, 60), sector)
+2025-08-19 17:15:36,573 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3pnfrt5A84CM9cj18kswUw8G
+2025-08-19 17:15:36,573 - INFO - 174: group_rank(ts_rank(ebit, 60), densify(pv13_h_f1_sector))
+2025-08-19 17:15:37,502 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:15:53,206 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:16:09,073 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:16:24,794 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4AeyjggGK4L9ceb1c9eK8K43
+2025-08-19 17:16:24,795 - INFO - 175: group_rank(ts_rank(ebit, 200), market)
+2025-08-19 17:16:26,129 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:16:41,650 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:16:58,100 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1hxTq33Ud4PRbDQdnjtHJpR
+2025-08-19 17:16:58,100 - INFO - 176: group_rank(ts_rank(ebit, 200), industry)
+2025-08-19 17:16:59,522 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/44YzLOgO153bbt0BtTab0o9
+2025-08-19 17:16:59,522 - INFO - 177: group_rank(ts_rank(ebit, 200), subindustry)
+2025-08-19 17:17:00,807 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:17:16,945 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:17:33,122 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:17:50,163 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1Rybuk5Qa4Dg9VfCSdjYLWD
+2025-08-19 17:17:50,164 - INFO - 178: group_rank(ts_rank(ebit, 200), sector)
+2025-08-19 17:17:50,685 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:18:06,202 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:18:22,751 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:18:38,441 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3GH4IZeqQ4i9cvt2ImbRaXu
+2025-08-19 17:18:38,441 - INFO - 179: group_rank(ts_rank(ebit, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:18:39,000 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:18:54,939 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2TCLZy92y50DaK3fg2tlRhH
+2025-08-19 17:18:54,939 - INFO - 180: group_rank(ts_rank(ebitda, 60), market)
+2025-08-19 17:18:55,234 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:19:12,243 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3eYdg09bF4JqceMt5D49yXe
+2025-08-19 17:19:12,243 - INFO - 181: group_rank(ts_rank(ebitda, 60), industry)
+2025-08-19 17:19:14,491 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:19:30,134 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:19:45,968 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:20:02,241 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:20:18,242 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/uyHp5frp4rzbSLMH85Ce79
+2025-08-19 17:20:18,242 - INFO - 182: group_rank(ts_rank(ebitda, 60), subindustry)
+2025-08-19 17:20:21,088 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/48ggrr4Ek59W9kEKXNnaCyn
+2025-08-19 17:20:21,088 - INFO - 183: group_rank(ts_rank(ebitda, 60), sector)
+2025-08-19 17:20:23,879 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:20:39,212 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3V7ivBbCb4igcBl11K0PrT5q
+2025-08-19 17:20:39,212 - INFO - 184: group_rank(ts_rank(ebitda, 60), densify(pv13_h_f1_sector))
+2025-08-19 17:20:40,107 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:20:56,309 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:21:11,738 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:21:28,003 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:21:43,853 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/34l9fLebA4D0ang14fvocLjS
+2025-08-19 17:21:43,853 - INFO - 185: group_rank(ts_rank(ebitda, 200), market)
+2025-08-19 17:21:44,263 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:22:00,466 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:22:16,119 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:22:32,089 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3EkEDXcAp53TaVY8kdyA7nD
+2025-08-19 17:22:32,089 - INFO - 186: group_rank(ts_rank(ebitda, 200), industry)
+2025-08-19 17:22:34,440 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:22:54,478 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:23:10,716 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3CZq2rafB570bIhX1AUj51H
+2025-08-19 17:23:10,716 - INFO - 187: group_rank(ts_rank(ebitda, 200), subindustry)
+2025-08-19 17:23:13,058 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2Ygciz5tZ56qcBSN3wiOE3P
+2025-08-19 17:23:13,058 - INFO - 188: group_rank(ts_rank(ebitda, 200), sector)
+2025-08-19 17:23:14,138 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:23:29,997 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:23:46,062 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:24:01,712 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2uv2TEf0g4XjaXa3O1dWq7a
+2025-08-19 17:24:01,712 - INFO - 189: group_rank(ts_rank(ebitda, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:24:02,316 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:24:20,598 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:24:36,214 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2mb0Zw4w14I49nCT1Qs8pBk
+2025-08-19 17:24:36,214 - INFO - 190: group_rank(ts_rank(employee, 60), market)
+2025-08-19 17:24:37,195 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:24:55,703 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2WTW0J6tn4L79uzqb9QDsqB
+2025-08-19 17:24:55,703 - INFO - 191: group_rank(ts_rank(employee, 60), industry)
+2025-08-19 17:24:56,393 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:25:12,722 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:25:28,534 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:25:45,903 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:26:06,032 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:26:22,473 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:26:38,541 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2B91yu66U4lAbz312L5ROytR
+2025-08-19 17:26:38,542 - INFO - 192: group_rank(ts_rank(employee, 60), subindustry)
+2025-08-19 17:26:39,435 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/30v4Bnd9k5f99wrpmoEXmfv
+2025-08-19 17:26:39,435 - INFO - 193: group_rank(ts_rank(employee, 60), sector)
+2025-08-19 17:26:40,540 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:26:56,615 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2zF2PA7qz4K7bCLmbDD4uy0
+2025-08-19 17:26:56,615 - INFO - 194: group_rank(ts_rank(employee, 60), densify(pv13_h_f1_sector))
+2025-08-19 17:26:57,952 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:27:13,862 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:27:30,250 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:27:45,729 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:28:01,578 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1vXVM1eSW4Ml94XQrRegmrg
+2025-08-19 17:28:01,578 - INFO - 195: group_rank(ts_rank(employee, 200), market)
+2025-08-19 17:28:02,822 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:28:19,051 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:28:34,519 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/TFgi3cnN4tw9eOrr2WJ5bL
+2025-08-19 17:28:34,519 - INFO - 196: group_rank(ts_rank(employee, 200), industry)
+2025-08-19 17:28:35,675 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:28:59,744 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:29:19,557 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/XIEHOgZ5bhaZqpcQsH2so
+2025-08-19 17:29:19,557 - INFO - 197: group_rank(ts_rank(employee, 200), subindustry)
+2025-08-19 17:29:20,713 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1SCM2IcMC4S4cb23UfqVB4C
+2025-08-19 17:29:20,713 - INFO - 198: group_rank(ts_rank(employee, 200), sector)
+2025-08-19 17:29:22,736 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:29:38,503 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:29:54,587 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3QsqJx2LP4V09RGu9ykxs2t
+2025-08-19 17:29:54,587 - INFO - 199: group_rank(ts_rank(employee, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:29:56,294 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:30:16,317 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:30:32,863 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:30:48,448 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2NBvyf2LT5iF9KBS1jQ7kvo
+2025-08-19 17:30:48,448 - INFO - 200: group_rank(ts_rank(enterprise_value, 60), market)
+2025-08-19 17:30:49,763 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:31:05,192 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:31:20,887 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1mxZ7j7Uq4ki8Ad453Ie49R
+2025-08-19 17:31:20,887 - INFO - 201: group_rank(ts_rank(enterprise_value, 60), industry)
+2025-08-19 17:31:21,983 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:31:38,530 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:31:54,110 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:32:14,529 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3gUrPV1mk4REaTcYBwvg6LI
+2025-08-19 17:32:14,530 - INFO - 202: group_rank(ts_rank(enterprise_value, 60), subindustry)
+2025-08-19 17:32:15,647 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/HV9kX4Pd4Rw9PmIXi2MFqB
+2025-08-19 17:32:15,647 - INFO - 203: group_rank(ts_rank(enterprise_value, 60), sector)
+2025-08-19 17:32:16,369 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:32:32,727 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:32:56,832 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3pVIv66qv4qXc5Jbn1QQ2Gs
+2025-08-19 17:32:56,832 - INFO - 204: group_rank(ts_rank(enterprise_value, 60), densify(pv13_h_f1_sector))
+2025-08-19 17:33:03,572 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:33:20,663 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:33:36,075 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2VRlJG7Pi4VGcjl5hqJtOAc
+2025-08-19 17:33:36,076 - INFO - 205: group_rank(ts_rank(enterprise_value, 200), market)
+2025-08-19 17:33:36,881 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/A7Z1Hd8l4sl8DD12kWFIIJb
+2025-08-19 17:33:36,881 - INFO - 206: group_rank(ts_rank(enterprise_value, 200), industry)
+2025-08-19 17:33:37,485 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:33:53,357 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:34:09,407 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:34:24,895 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:34:40,804 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:34:56,204 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/4eRGise8O5kdarn16AXShARn
+2025-08-19 17:34:56,204 - INFO - 207: group_rank(ts_rank(enterprise_value, 200), subindustry)
+2025-08-19 17:34:57,111 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:35:13,171 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:35:31,360 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2TJFXxBE4yBaQM75FLKli1
+2025-08-19 17:35:31,360 - INFO - 208: group_rank(ts_rank(enterprise_value, 200), sector)
+2025-08-19 17:35:43,588 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:35:59,345 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:36:15,796 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:36:32,145 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3Sv2iSem64qObcSArgxYaJj
+2025-08-19 17:36:32,145 - INFO - 209: group_rank(ts_rank(enterprise_value, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:36:32,651 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:36:48,912 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:37:04,770 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1iX9Cm2mb4zYbgYQgFA39rO
+2025-08-19 17:37:04,770 - INFO - 210: group_rank(ts_rank(eps, 60), market)
+2025-08-19 17:37:07,257 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3kzDKg3W856A8A0XBbtYWst
+2025-08-19 17:37:07,257 - INFO - 211: group_rank(ts_rank(eps, 60), industry)
+2025-08-19 17:37:08,080 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:37:23,873 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:37:40,039 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:37:55,767 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/28r89n9Ri4TcbGz14STPuBqu
+2025-08-19 17:37:55,767 - INFO - 212: group_rank(ts_rank(eps, 60), subindustry)
+2025-08-19 17:37:56,642 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:38:13,587 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:38:30,920 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1sW5ZzgAD4yoaT0Y6y0t4YW
+2025-08-19 17:38:30,920 - INFO - 213: group_rank(ts_rank(eps, 60), sector)
+2025-08-19 17:38:31,779 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3yNCVN8PK4vsbpEZOJhdk5N
+2025-08-19 17:38:31,780 - INFO - 214: group_rank(ts_rank(eps, 60), densify(pv13_h_f1_sector))
+2025-08-19 17:38:34,882 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:38:50,590 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:39:06,183 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:39:21,766 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1rs0Gu8Tr4zt8JuqmUhuxnD
+2025-08-19 17:39:21,767 - INFO - 215: group_rank(ts_rank(eps, 200), market)
+2025-08-19 17:39:22,140 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:39:38,389 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:39:54,016 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:40:09,655 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/uZ9UE5v24Z58Wsjmu2yCqq
+2025-08-19 17:40:09,655 - INFO - 216: group_rank(ts_rank(eps, 200), industry)
+2025-08-19 17:40:10,265 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:40:25,822 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:40:41,882 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/446xNDehu4iz96518LkQrYOS
+2025-08-19 17:40:41,882 - INFO - 217: group_rank(ts_rank(eps, 200), subindustry)
+2025-08-19 17:40:42,180 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:40:58,546 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1zzEbn3V652ZcGfZbwKufMM
+2025-08-19 17:40:58,546 - INFO - 218: group_rank(ts_rank(eps, 200), sector)
+2025-08-19 17:41:00,035 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:41:16,098 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:41:32,015 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/YVVqNf2z4LmaTDekFLEV2A
+2025-08-19 17:41:32,015 - INFO - 219: group_rank(ts_rank(eps, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:41:32,524 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:41:48,555 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:42:04,309 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/eoBEs4IA4jY9YVhQaBPxBs
+2025-08-19 17:42:04,310 - INFO - 220: group_rank(ts_rank(equity, 60), market)
+2025-08-19 17:42:05,969 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:42:21,996 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2vEjlcdEB4Y1b2XMxznSgSW
+2025-08-19 17:42:21,996 - INFO - 221: group_rank(ts_rank(equity, 60), industry)
+2025-08-19 17:42:22,870 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:42:38,623 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:42:54,528 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:43:17,371 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2rwGaH4X14GxbP7163OGx9He
+2025-08-19 17:43:17,372 - INFO - 222: group_rank(ts_rank(equity, 60), subindustry)
+2025-08-19 17:43:18,678 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:43:34,697 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3LnXxn2iY4XA9Y61bsb9HkZZ
+2025-08-19 17:43:34,697 - INFO - 223: group_rank(ts_rank(equity, 60), sector)
+2025-08-19 17:43:36,287 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:43:52,046 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/17zh4Zb7e4jeaWU600ClIxz
+2025-08-19 17:43:52,046 - INFO - 224: group_rank(ts_rank(equity, 60), densify(pv13_h_f1_sector))
+2025-08-19 17:43:52,881 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:44:08,386 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:44:24,007 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:44:39,835 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:44:56,864 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/3wok2tg9i50Cb36ZbIslXkT
+2025-08-19 17:44:56,864 - INFO - 225: group_rank(ts_rank(equity, 200), market)
+2025-08-19 17:44:57,350 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/43tCt62oJ4VX9LRsOkvfKyY
+2025-08-19 17:44:57,351 - INFO - 226: group_rank(ts_rank(equity, 200), industry)
+2025-08-19 17:44:57,890 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:45:13,996 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:45:29,788 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:45:45,194 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:46:01,940 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:46:17,792 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/1kPuL71Z4O4aO614ABEM2k6
+2025-08-19 17:46:17,792 - INFO - 227: group_rank(ts_rank(equity, 200), subindustry)
+2025-08-19 17:46:18,347 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/2m03yqafR4YZaVvuAtM0ca8
+2025-08-19 17:46:18,348 - INFO - 228: group_rank(ts_rank(equity, 200), sector)
+2025-08-19 17:46:19,390 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:46:35,221 - INFO - Alpha location is: https://api.worldquantbrain.com/simulations/21Y4ZC3NH4Ym8MW1dYodYi0Q
+2025-08-19 17:46:35,221 - INFO - 229: group_rank(ts_rank(equity, 200), densify(pv13_h_f1_sector))
+2025-08-19 17:46:35,538 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:46:51,048 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:47:07,424 - ERROR - No Location, sleep 15 and retry, error message: 'location'
+2025-08-19 17:47:23,076 - ERROR - No Location, sleep 15 and retry, error message: 'location'
