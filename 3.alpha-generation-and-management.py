@@ -107,7 +107,7 @@ import logging
 
 
 alpha_fail_attempt_tolerance = 15 # 每个alpha允许的最大失败尝试次数
-is_submit = False  # 标志变量，用于控制是否提交alpha
+is_submit = True  # 标志变量，用于控制是否提交alpha
 if is_submit:
     # 从第0个元素开始迭代回测alpha_list
     for index in range(0, len(alpha_list)):
