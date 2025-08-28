@@ -3,7 +3,7 @@ from helper import sign_in, get_datafields, get_standard_search_scope, create_si
 sess = sign_in()
 
 searchScope = get_standard_search_scope()
-fnd6 = get_datafields(s=sess, searchScope=searchScope, dataset_id='fundamental6')
+fnd6 = get_datafields(s=sess, searchScope=searchScope, dataset_id='fundamental2') # 这里可以改改
 fnd6 = fnd6[fnd6['type'] == "MATRIX"]
 fnd6.head()
 
