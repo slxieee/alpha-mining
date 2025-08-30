@@ -4,7 +4,7 @@ from helper import sign_in, get_datafields, get_standard_search_scope, create_si
 sess = sign_in()
 
 searchScope = get_standard_search_scope()
-fnd6 = get_datafields(s=sess, searchScope=searchScope, dataset_id='fundamental2')
+fnd6 = get_datafields(s=sess, searchScope=searchScope, dataset_id='news12')
 fnd6 = fnd6[fnd6['type'] == "MATRIX"] # 筛选类型为 "MATRIX" 的数据字段
 datafields_list_fnd6 = fnd6['id'].values  # 提取数据字段的ID并转换为列表 比如：['assets', 'liabilities', 'revenue', ...]
 print(datafields_list_fnd6)

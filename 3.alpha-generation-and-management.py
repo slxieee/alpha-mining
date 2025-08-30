@@ -7,7 +7,7 @@ sess = sign_in()
 # 定义搜索范围
 searchScope = get_standard_search_scope()
 # 从数据集中获取数据字段
-fnd6 = get_datafields(s=sess, searchScope=searchScope, dataset_id='fundamental2')
+fnd6 = get_datafields(s=sess, searchScope=searchScope, dataset_id='analyst4')
 # 过滤类型为 "MATRIX" 的数据字段
 fnd6 = fnd6[fnd6['type'] == "MATRIX"]
 # 提取数据字段的ID并转换为列表

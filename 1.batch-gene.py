@@ -3,19 +3,19 @@ from helper import sign_in, get_datafields, get_standard_search_scope, create_si
 sess = sign_in()
 
 searchScope = get_standard_search_scope()
-fnd6 = get_datafields(s=sess, searchScope=searchScope, dataset_id='fundamental2') # 这里可以改改
-fnd6 = fnd6[fnd6['type'] == "MATRIX"]
-fnd6.head()
+dataField = get_datafields(s=sess, searchScope=searchScope, dataset_id='news12') # 这里可以改改
+dataField = dataField[dataField['type'] == "MATRIX"]
+dataField.head()
 
-datafields_list_fnd6 = fnd6['id'].values
-print(datafields_list_fnd6)
-print(len(datafields_list_fnd6))
+datafields_list_dataField = dataField['id'].values
+print(datafields_list_dataField)
+print(len(datafields_list_dataField))
 
 
 # 将datafield替换到Alpha模板(框架)中group_rank({fundamental model data}/cap,subindustry)批量生成Alpha
 alpha_list = []
 
-for index,datafield in enumerate(datafields_list_fnd6,start=1):
+for index,datafield in enumerate(datafields_list_dataField,start=1):
     
     alpha_expression = f'group_rank(({datafield})/cap, subindustry)'
     print(f"正在循环第 {index} 个元素,组装alpha表达式: {alpha_expression}")
